@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadIiifImage", "DownloadIiifImage\DownloadIiifImage.csproj", "{B0794457-E6F6-4BDB-BE56-74A8BB319973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0794457-E6F6-4BDB-BE56-74A8BB319973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0794457-E6F6-4BDB-BE56-74A8BB319973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0794457-E6F6-4BDB-BE56-74A8BB319973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0794457-E6F6-4BDB-BE56-74A8BB319973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A86D95-00CC-4CD4-9E8D-CB8E86DCBDF9}
+	EndGlobalSection
+EndGlobal
